@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f5f5;
+    font-size: 22px;
+    height: 90vh;
+}
+
+.count{
+    font-size: 100px;
+}
+
+button{
+    background: #f23;
+    border: none;
+    padding: 10px 20px;
+    outline: none;
+    color: #fff;
+    font-size: 19px;
+    margin: 0 30px;
+}
+
+.global{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
